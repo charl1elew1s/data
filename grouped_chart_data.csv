@@ -1,0 +1,25 @@
+Unpaid Care,Care Type,Value
+Active employed, No unpaid care,90.93
+Active seeking, No unpaid care,92.27
+Inactive retired, No unpaid care,88.79
+Inactive student/other, No unpaid care,94.5
+Inactive family care, No unpaid care,73.0
+Inactive self care, No unpaid care,89.24
+Active employed,< 20 hrs,5.61
+Active seeking,< 20 hrs,4.28
+Inactive retired,< 20 hrs,4.52
+Inactive student/other,< 20 hrs,2.53
+Inactive family care,< 20 hrs,4.79
+Inactive self care,< 20 hrs,2.81
+Active employed,20 - 49 hrs,1.88
+Active seeking,20 - 49 hrs,1.97
+Inactive retired,20 - 49 hrs,1.69
+Inactive student/other,20 - 49 hrs,1.47
+Inactive family care,20 - 49 hrs,7.37
+Inactive self care,20 - 49 hrs,2.79
+Active employed,50+ hrs,1.58
+Active seeking,50+ hrs,1.48
+Inactive retired,50+ hrs,5.0
+Inactive student/other,50+ hrs,1.5
+Inactive family care,50+ hrs,14.84
+Inactive self care,50+ hrs,5.16
