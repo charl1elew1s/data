@@ -1,0 +1,13 @@
+Healthcarecategory,healthstatus,fraction
+Provided no unpaid care,Good health fraction,0.81977
+Provided no unpaid care,Fair health fraction,0.126643
+Provided no unpaid care,Poor health fraction,0.053587
+less than 20 hours,Good health fraction,0.795198
+less than 20 hours,Fair health fraction,0.16223
+less than 20 hours,Poor health fraction,0.042572
+between 20 and 50 hours,Good health fraction,0.70425
+between 20 and 50 hours,Fair health fraction,0.217973
+between 20 and 50 hours,Poor health fraction,0.077776
+more than 50 hours,Good health fraction,0.606904
+more than 50 hours,Fair health fraction,0.277272
+more than 50 hours,Poor health fraction,0.115824
